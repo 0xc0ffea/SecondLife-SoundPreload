@@ -23,3 +23,7 @@ This script does not play any sound.
 "It takes 10 seconds to walk from here to the surprise sound effect, if I place the tripwire here I can request at most 10 sounds be preloaded, but realistically and factoring time to download, 5 is probably the max....."
 
 Don't just place one of these at the landing point and put every sound file you use in your entire build inside it, it won't provide any benefit. Using a number of stratgically placed trip wires just ahead of events with an audio componant.
+
+---
+
+Second Life™ and Linden Lab™ are trademarks or registered trademarks of Linden Research, Inc. No infringement is intended.
